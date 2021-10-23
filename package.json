@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "tobias-wilfert-word-count:toggle"
   },
-  "repository": "https://github.com/tobias-wilfert-word-count",
+  "repository": "https://github.com/tobias-wilfert/tobias-wilfert-word-count",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
