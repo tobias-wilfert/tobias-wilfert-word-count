@@ -1,0 +1,18 @@
+{
+  "name": "tobias-wilfert-word-count",
+  "main": "./lib/tobias-wilfert-word-count",
+  "version": "0.0.0",
+  "description": "My first Atom package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "tobias-wilfert-word-count:toggle"
+  },
+  "repository": "https://github.com/tobias-wilfert-word-count",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

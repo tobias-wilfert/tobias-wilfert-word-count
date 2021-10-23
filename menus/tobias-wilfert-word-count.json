@@ -1,0 +1,45 @@
+{
+  "context-menu": {
+    "atom-workspace": [
+      {
+        "label": "Text",
+        "submenu": [
+          {
+            "label": "Inspect Element",
+            "command": "core:inspect"
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "label": "Selector All",
+            "command": "core:select-all"
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "label": "Deleted Selected Text",
+            "command": "core:delete"
+          }
+        ]
+      }
+    ]
+},
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "tobias-wilfert-word-count",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "tobias-wilfert-word-count:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
